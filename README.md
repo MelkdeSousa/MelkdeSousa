@@ -11,7 +11,7 @@
   - Know some English
   - And likes Tux a lot❤️ <code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="2%"></code>
 
-### Learning the stack: 
+### Learning the stack 
   - Javascript <code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="2%"></code>
   - Node.js <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="2%"></code>
   - React <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="2%"></code>
