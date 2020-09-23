@@ -19,6 +19,7 @@
     + React Native
 
 ### Fiddling with the tools
+  - Firebase <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="2%"></code>
   - Expo <code><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="2%"></code>
   - Typescript <code><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="2%"></code>
   - Figma <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="2%"></code>
