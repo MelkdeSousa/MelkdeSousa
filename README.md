@@ -26,8 +26,6 @@
 
 ### These are my contacts📋
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melk.sousap@gmail.com)](mailto:melk.sousap@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3465A4?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/melkdesousa)](https://linkedin.com/in/melkdesousa)
-
 
 [![Melk github stats](https://github-readme-stats.vercel.app/api?username=MelkdeSousa)](https://github.com/MelkdeSousa)
