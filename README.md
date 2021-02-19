@@ -38,9 +38,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3465A4?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/melkdesousa)](https://linkedin.com/in/melkdesousa)
 
 ### Measures
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MelkdeSousa.MelkdeSousa)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelkdeSousa&hide=TeX&layout=compact&theme=synthwave)
 
 ![MelkdeSousa GitHub stats](https://github-readme-stats.vercel.app/api?username=MelkdeSousa&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)
