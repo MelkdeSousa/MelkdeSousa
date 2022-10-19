@@ -7,7 +7,7 @@
 - 🏢 I'm currently working at **Sigtrans**
 - ⚙️ I use daily: `.ts`, `.tsx`, `.cs`
 - 🔍 Exploring: `.go`
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning about **Software Architecture**, **Design System** and **Mobile Development**
 - 📫 Reach me:
   - 🐦 [twitter.com/melk_de_sousa](https://twitter.com/melk_de_sousa)
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
