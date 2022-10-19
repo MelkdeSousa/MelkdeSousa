@@ -8,7 +8,10 @@
 - ⚙️ I use daily: `.ts`, `.tsx`, `.cs`
 - 🔍 Exploring: `.go`
 - 🌱 Learning all about **Open Source**
-- 📫 Reach me: [twitter.com/melk_de_sousa](https://twitter.com/melk_de_sousa)
+- 📫 Reach me:
+  - 🐦 [twitter.com/melk_de_sousa](https://twitter.com/melk_de_sousa)
+  - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
+  - 📷 [instagram.com/melk.de.sousa](https://instagram.com/melk.de.sousa)
 
 #### Stats
 
