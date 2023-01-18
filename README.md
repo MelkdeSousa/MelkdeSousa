@@ -12,7 +12,7 @@
   - 🐦 [twitter.com/melk_de_sousa](https://twitter.com/melk_de_sousa)
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
   - 📷 [instagram.com/melk.de.sousa](https://instagram.com/melk.de.sousa)
-
+<!-- 
 #### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkdesousa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkdesousa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
