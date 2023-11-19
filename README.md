@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **Sigtrans**
 - ⚙️ I use daily: `.ts`, `.tsx`
-- 🔍 Exploring: [serverless](https://serverless.com)
+- 🔍 Exploring: [Go](https://go.dev)
 - 🌱 Learning about **Mobile Development**, **Software Architecture** and **Design System**
 - 📫 Reach me:
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
