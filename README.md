@@ -4,9 +4,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Sigtrans**
+- 🏢 I'm currently working at **[Sigtrans](https://www.linkedin.com/company/sigtransti/)**
 - ⚙️ I use daily: `.ts`, `.tsx`
-- 🔍 Exploring: [Go](https://go.dev)
+- 🔍 Exploring: `.go`
 - 🌱 Learning about **Mobile Development**, **Software Architecture** and **Design System**
 - 📫 Reach me:
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
