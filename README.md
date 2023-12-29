@@ -10,7 +10,8 @@
 - 🌱 Learning about **Mobile Development**, **Software Architecture** and **Design System**
 - 📫 Reach me:
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
-<!-- 
+
 #### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkdesousa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkdesousa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkdesousa&layout=compact&theme=radical&hide=objective-c,objective-cpp,java,html,css,scss,ejs,ruby)
