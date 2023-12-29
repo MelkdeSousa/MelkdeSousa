@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **[Sigtrans](https://www.linkedin.com/company/sigtransti/)**
 - ⚙️ I use daily: `.ts`, `.tsx`
-- 🔍 Exploring: `.go`
+- 🔍 Exploring: `.go`, `.kt`
 - 🌱 Learning about **Mobile Development**, **Software Architecture** and **Design System**
 - 📫 Reach me:
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
