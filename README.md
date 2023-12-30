@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **[Sigtrans](https://www.linkedin.com/company/sigtransti/)**
+- 🏢 I'm currently working at **[Sigtrans](https://www.linkedin.com/company/aurea-phigital/)**
 - ⚙️ I use daily: `.ts`, `.tsx`
 - 🔍 Exploring: `.go`, `.kt`
 - 🌱 Learning about **Mobile Development**, **Software Architecture** and **Design System**
