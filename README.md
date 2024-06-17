@@ -4,10 +4,10 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **[Aurea Phigital](https://www.linkedin.com/company/aurea-phigital/)**
-- ⚙️ I use daily: `.ts`, `.tsx`
-- 🔍 Exploring: `.go`, `.kt`
-- 🌱 Learning about **Mobile Development**, **Software Architecture** and **Design System**
+- 🏢 I'm currently working at **[Grupo SBF](https://www.linkedin.com/company/grupo-sbf-s-a/)**
+- ⚙️ I use daily: `.ts`, `.cs`
+- 🔍 Exploring: `.go`
+- 🌱 Learning about **Backend Development**, **Software Architecture** and **System Design**
 - 📫 Reach me:
   - 💼 [linkedin.com/in/melkdesousa](https://linkedin.com/in/melkdesousa)
 
